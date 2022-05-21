@@ -1,4 +1,4 @@
-Kudos to Henri Hennebert https://reviews.freebsd.org/rS367998
+Kudos to Henri Hennebert (https://github.com/hlh-restart/rtsx) https://reviews.freebsd.org/rS367998
 
 No need anymore:
 ---------------------------------------------------------------
