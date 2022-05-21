@@ -1,3 +1,7 @@
+Kudos to Henri Hennebert https://reviews.freebsd.org/rS367998
+
+No need anymore:
+---------------------------------------------------------------
 A sad attempt on porting OpenBSD rtsx driver to FreeBSD.
 
 Based on this: https://www.freebsd.org/doc/en_US.ISO8859-1/books/arch-handbook/pci.html example.
@@ -12,4 +16,6 @@ TODO:
 
  - hao doai FreeBSD BUS
  - devmethods to implement the mmc interface
+
+
 
